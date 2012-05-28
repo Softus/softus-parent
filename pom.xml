@@ -43,6 +43,37 @@
     <url>http://www.softus.org</url>
   </organization>
 
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <url>http://code.google.com/p/softus-parent/source/browse</url>
+    <connection>scm:git:http://code.google.com/p/softus-parent</connection>
+    <developerConnection>scm:git:https://code.google.com/p/softus-parent</developerConnection>
+  </scm>
+
+  <issueManagement>
+    <system>Google Code</system>
+    <url>http://code.google.com/p/softus-parent/issues</url>
+  </issueManagement>
+
+  <developers>
+    <developer>
+      <id>arkhipov</id>
+      <email>vlad@arkhipov.ru</email>
+      <name>Vlad Arkhipov</name>
+      <timezone>Asia/Irkutsk</timezone>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
