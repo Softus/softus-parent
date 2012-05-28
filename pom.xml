@@ -67,6 +67,8 @@
       <id>arkhipov</id>
       <email>vlad@arkhipov.ru</email>
       <name>Vlad Arkhipov</name>
+      <organization>Softus.org</organization>
+      <organizationUrl>http://www.softus.org</organizationUrl>
       <timezone>Asia/Irkutsk</timezone>
       <roles>
         <role>developer</role>
